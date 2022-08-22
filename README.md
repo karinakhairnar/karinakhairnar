@@ -32,7 +32,7 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 - 📫 you can reach me at karinakhairnar@gmail.com
 - 😄 Pronouns: She/Her
 - portfolio :- https://karina-portfoilo-cc8029.netlify.app/
--              https://portfolio-karina-843.netlify.app/
+- portfolio :- https://portfolio-karina-843.netlify.app/
 - Linkdin :- https://www.linkedin.com/in/karina-khairnar-13b520204/
 <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
  <br>
