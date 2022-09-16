@@ -94,7 +94,7 @@
 
 <div>
   <p align='center'><b>🏆 Github Achievements</b></p><br/>
-  <p align="center"> <a href="https://github.com/karinakhairnar"><img src="https://github-profile-trophy.vercel.app/?username=karinakhairnar&margin-w=5&theme=radical" alt="Abhishek" /></a> </p>
+  <p align="center"> <a href="[https://github.com/karinakhairnar](https://github.com/karinakhairnar)"><img src="https://github-profile-trophy.vercel.app/?username=karinakhairnar&margin-w=5&theme=radical" alt="Abhishek" /></a> </p>
 </div>
 
  <hr>
