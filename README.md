@@ -17,7 +17,7 @@
 - 🤔 I’m looking for help with developing AI skills..
 - 💬 Ask me about any MERN related stuff
 - 📫 you can reach me at karinakhiarnar@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: She/Her
   <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
    <br>
 <div align='center'>
