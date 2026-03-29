@@ -21,8 +21,7 @@
    <br>
 <div align='center'>
 
-  ![age](https://img.shields.io/badge/age-19-blue&height="20")
-  ![living](https://img.shields.io/badge/living-Dhule,Maharashtra-maroon)
+
   ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 </div>
 <br/>
